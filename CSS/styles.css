@@ -143,3 +143,8 @@ a {
 a:hover {
     color: #eaf6f6;
 }
+
+.hey {
+     width: 40pc;
+    margin: 50px auto 50px auto;
+}
